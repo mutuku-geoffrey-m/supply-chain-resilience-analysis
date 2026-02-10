@@ -13,11 +13,7 @@ Analyzed 27,000+ shipping records to identify why Western European logistics cos
 * **Opportunity:** Dynamic routing can reduce late delivery probability by 30%.
 
 ## 📊 Visuals
-### 1. The "Smoking Gun" Chart
-*(Upload your "Gap" chart image to the repo and link it here)*
-> *Figure 1: Internal costs (Orange) failed to track market recovery (Green).*
-
-### 2. Operational Control Tower
+###  Operational Control Tower
 [**View Interactive Tableau Dashboard**](https://public.tableau.com/views/SupplyChainResilienceProject-GeoffreyMutuku/SupplyChainResilienceControlTower?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📂 Project Structure
