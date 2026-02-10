@@ -17,6 +17,6 @@ Analyzed 180,000+ shipping records to identify why Western European logistics co
 [**View Interactive Tableau Dashboard**](https://public.tableau.com/views/SupplyChainResilienceProject-GeoffreyMutuku/SupplyChainResilienceControlTower?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📂 Project Structure
-* `Data/`: Cleaned dataset with calculated "Cost of Delay" columns.(https://docs.google.com/spreadsheets/d/1M9u9Hr0vjVj_tOIhdteQ6HCSsWKi4XJD/edit?usp=sharing&ouid=114302660941296391858&rtpof=true&sd=true) file too large to upload 180,000 rows
+* `Data/`: Cleaned dataset with calculated "Cost of Delay" columns.(https://drive.google.com/drive/folders/1X4mHl2UW5FTC6HdJspyGBsxP3s5x_euF?usp=sharing) file too large to upload 180,000+ rows
 * `Presentation/`: Executive Strategy Deck (PDF).
 * `Visuals/`: Key charts and diagnostic views.
